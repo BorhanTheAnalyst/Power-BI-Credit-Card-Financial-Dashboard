@@ -55,7 +55,6 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 
 ## Author
 [Md Borhan Uddin]  
-[Your LinkedIn Profile](https://www.linkedin.com/in/mdborhanuddin/)  
-[Your Portfolio](#)
+[LinkedIn Profile](https://www.linkedin.com/in/mdborhanuddin/) 
 - **Email**: [borhan.chat@gmail.com](mailto:borhan.chat@gmail.com)
 - **LinkedIn**: [Md Borhan Uddin](https://www.linkedin.com/in/mdborhanuddin/)
