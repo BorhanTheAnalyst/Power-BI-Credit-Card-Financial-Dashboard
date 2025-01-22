@@ -41,7 +41,11 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 - Leveraged time-series analysis to monitor trends and forecast performance effectively.
 
 ## Screenshots
-(Add relevant screenshots of your dashboard here for better visualization.)
+![credit_card_report_page-0001](https://github.com/user-attachments/assets/3ccf7883-d488-48c6-bf45-dfa04e621db0)
+
+![Uploading credit_card_report_page-0002.jpg…]()
+
+
 
 ## Future Improvements
 - Incorporating machine learning models for advanced forecasting.
