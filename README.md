@@ -23,25 +23,17 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data extraction and preprocessing.
 
-## How to Use This Repository
-1. **SQL Scripts**:
-   - Use the SQL scripts and CSV file provided in the `data/` folder to set up the database and load the necessary data.
-
-2. **Power BI File**:
-   - Open the Power BI `.pbix` file in the root directory to view and interact with the dashboard.
-
-3. **Sample Data**:
-   - Sample data is included in the `data/` folder for demonstration purposes.
-
-## Insights Delivered
-- Provided actionable insights for stakeholders to optimize credit card operations and improve business performance.
-- Leveraged time-series analysis to monitor trends and forecast performance effectively.
-
-## Screenshots
+## Visuals
 ![credit_card_report_page-0001](https://github.com/user-attachments/assets/3ccf7883-d488-48c6-bf45-dfa04e621db0)
+*Figure 1: Interactive dashboard overview with key insights.*
 
 ![credit_card_report_page-0002](https://github.com/user-attachments/assets/cffa8c5e-9733-451c-98c1-ef0c7664e5a1)
+*Figure 2: Interactive dashboard overview with key insights.*
 
+### Demo Video
+Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
+
+[![Watch the demo](https://img.youtube.com/vi/nC-FiuiyjyY/0.jpg)](https://youtu.be/nC-FiuiyjyY)
 
 ## Author
 [Md Borhan Uddin]  
