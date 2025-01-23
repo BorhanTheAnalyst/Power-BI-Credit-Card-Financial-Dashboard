@@ -22,6 +22,19 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 ## Tools and Technologies
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data extraction and preprocessing.
+### **Development Process**
+1. **Import Data from SQL**:
+   - Extracted and loaded transactional and customer data into Power BI from a SQL database.
+2. **Data Processing & DAX Queries**:
+   - Performed data cleaning, transformation, and analysis using Power BI's query editor and DAX.
+3. **Measures and Calculations**:
+   - Created custom measures and calculated columns to derive meaningful insights.
+4. **Charts, Filters, and Slicers**:
+   - Designed interactive visuals with slicers and filters for dynamic data exploration.
+5. **Auto Refresh Dashboard Data**:
+   - Configured automatic data refresh to ensure the dashboard always displays the latest information.
+6. **Dashboard & Insights**:
+   - Delivered a clean and intuitive dashboard that highlights actionable insights for stakeholders.
 
 ## Visuals
 ![credit_card_report_page-0001](https://github.com/user-attachments/assets/3ccf7883-d488-48c6-bf45-dfa04e621db0)
