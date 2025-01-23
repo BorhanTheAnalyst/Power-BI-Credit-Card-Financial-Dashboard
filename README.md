@@ -7,22 +7,14 @@ This Power BI project, Credit Card Financial Dashboard, provides real-time insig
 The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI project designed to provide real-time insights into key performance metrics and trends related to credit card operations. This dashboard was developed using transaction and customer data sourced from a SQL database, enabling stakeholders to monitor and analyze operations effectively.
 
 ## Key Features
-- **Interactive Visualizations**: Explore revenue, transaction trends, and customer demographics with intuitive filters and slicers.
-- **Week-over-Week (WoW) Analysis**: Gain insights into revenue, transaction amount and count, and customer growth trends.
-- **Year-to-Date (YTD) Summary**:
-  - Total revenue: 57M
-  - Total interest: 8M
-  - Transaction amount: 46M
-  - Gender-based revenue contribution: Male (31M), Female (26M)
-  - Card type contribution: Blue & Silver (93% of transactions)
-  - State-wise revenue: TX, NY, and CA contribute 68%
-  - Activation rate: 57.5%
-  - Delinquency rate: 6.06%
-
+Project Insights- Week 53 (31st Dec)
+Revenue increased by 28.8%, 
+• Total Transaction Amt & Count increased by xx% & xx%
+ • Customer count increased by xx%
 ## Features
 
 ### **Key Insights**
-- **Weekly Performance**:
+- **Project Insights- Week 53 (31st Dec)**:
   - Revenue increased by 28.8% (WoW).
   - Total transaction amount and count increased significantly.
   - Customer count showed notable growth.
