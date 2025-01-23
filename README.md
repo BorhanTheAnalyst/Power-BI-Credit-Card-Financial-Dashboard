@@ -31,9 +31,9 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 *Figure 2: Credit Card Customer Report.*
 
 ### Demo Video
-Watch the interactive demo [here](https://youtu.be/nC-FiuiyjyY).
+Watch the interactive demo [here](https://youtu.be/BAIwoGed9YE).
 
-[![Watch the demo](https://img.youtube.com/vi/nC-FiuiyjyY/0.jpg)](https://youtu.be/nC-FiuiyjyY)
+[![Watch the demo](https://img.youtube.com/vi/BAIwoGed9YE/0.jpg)](https://youtu.be/BAIwoGed9YE)
 
 ## Author
 [Md Borhan Uddin]  
