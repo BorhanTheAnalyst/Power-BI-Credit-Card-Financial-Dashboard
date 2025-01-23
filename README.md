@@ -1,6 +1,3 @@
-# Power-BI-Credit-Card-Financial-Dashboard
-This Power BI project, Credit Card Financial Dashboard, provides real-time insights into key performance metrics and trends related to credit card transactions and customer data. Developed using transaction and customer data sourced from a SQL database, the dashboard enables stakeholders to monitor and analyze operations effectively.
-
 # Credit Card Financial Dashboard
 
 ## Project Overview
@@ -9,11 +6,11 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
 ## Features
 
 ### **Key Insights**
-- **Project Insights- Week 53 (31st Dec) WoW change:**:
+- **Project Insights- Week 53 (31st Dec) - WoW change**:
   - Revenue increased by 28.8% (WoW).
   - Total transaction amount and count increased significantly.
   - Customer count showed notable growth.
-- **Year-to-Date (YTD) Metrics**:
+- **Overview Year-to-Date (YTD) Metrics**:
   - Total revenue: $57M.
   - Total interest: $8M.
   - Total transaction volume: $46M.
