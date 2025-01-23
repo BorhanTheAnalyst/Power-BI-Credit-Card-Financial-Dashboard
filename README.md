@@ -19,6 +19,22 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
   - Activation rate: 57.5%
   - Delinquency rate: 6.06%
 
+## Features
+
+### **Key Insights**
+- **Weekly Performance**:
+  - Revenue increased by 28.8% (WoW).
+  - Total transaction amount and count increased significantly.
+  - Customer count showed notable growth.
+- **Year-to-Date (YTD) Metrics**:
+  - Total revenue: $57M.
+  - Total interest: $8M.
+  - Total transaction volume: $46M.
+  - Gender contribution: Male ($31M), Female ($26M).
+  - Card type analysis: Blue and Silver cards account for 93% of transactions.
+  - Geographic performance: TX, NY, and CA contribute 68% of overall revenue.
+  - Activation rate: 57.5%.
+  - Delinquency rate: 6.06%.
 ## Tools and Technologies
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data extraction and preprocessing.
