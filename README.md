@@ -14,7 +14,7 @@ Revenue increased by 28.8%,
 ## Features
 
 ### **Key Insights**
-- **Project Insights- Week 53 (31st Dec)**:
+- **Project Insights- Week 53 (31st Dec) WoW change:**:
   - Revenue increased by 28.8% (WoW).
   - Total transaction amount and count increased significantly.
   - Customer count showed notable growth.
