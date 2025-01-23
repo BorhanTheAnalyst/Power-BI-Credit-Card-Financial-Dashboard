@@ -40,6 +40,7 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
    - Configured automatic data refresh to ensure the dashboard always displays the latest information.
 6. **Dashboard & Insights**:
    - Delivered a clean and intuitive dashboard that highlights actionable insights for stakeholders.
+---
 
 ## Visuals
 ![credit_card_report_page-0001](https://github.com/user-attachments/assets/3ccf7883-d488-48c6-bf45-dfa04e621db0)
