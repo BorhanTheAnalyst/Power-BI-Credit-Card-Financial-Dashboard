@@ -19,9 +19,14 @@ The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI p
   - Geographic performance: TX, NY, and CA contribute 68% of overall revenue.
   - Activation rate: 57.5%.
   - Delinquency rate: 6.06%.
-## Tools and Technologies
-- **Power BI**: For data visualization and dashboard creation.
-- **SQL**: For data extraction and preprocessing.
+---
+
+## Technical Details
+
+### **Technologies Used**
+- **Power BI**: For data visualization and interactive dashboard creation.
+- **SQL**: For data extraction, transformation, and preprocessing.
+
 ### **Development Process**
 1. **Import Data from SQL**:
    - Extracted and loaded transactional and customer data into Power BI from a SQL database.
