@@ -6,11 +6,6 @@ This Power BI project, Credit Card Financial Dashboard, provides real-time insig
 ## Project Overview
 The **Credit Card Financial Dashboard** is an interactive and dynamic Power BI project designed to provide real-time insights into key performance metrics and trends related to credit card operations. This dashboard was developed using transaction and customer data sourced from a SQL database, enabling stakeholders to monitor and analyze operations effectively.
 
-## Key Features
-Project Insights- Week 53 (31st Dec)
-Revenue increased by 28.8%, 
-• Total Transaction Amt & Count increased by xx% & xx%
- • Customer count increased by xx%
 ## Features
 
 ### **Key Insights**
@@ -33,10 +28,7 @@ Revenue increased by 28.8%,
 
 ## How to Use This Repository
 1. **SQL Scripts**:
-   - Use the SQL scripts provided in the `scripts/` folder to set up the database and load the necessary data.
-   - Scripts include:
-     - `setup_database.sql`: To create and populate the database.
-     - `data_queries.sql`: Queries used for data preprocessing.
+   - Use the SQL scripts and CSV file provided in the `data/` folder to set up the database and load the necessary data.
 
 2. **Power BI File**:
    - Open the Power BI `.pbix` file in the root directory to view and interact with the dashboard.
@@ -53,13 +45,6 @@ Revenue increased by 28.8%,
 
 ![credit_card_report_page-0002](https://github.com/user-attachments/assets/cffa8c5e-9733-451c-98c1-ef0c7664e5a1)
 
-
-
-
-## Future Improvements
-- Incorporating machine learning models for advanced forecasting.
-- Adding additional KPIs based on stakeholder feedback.
-- Expanding the dataset for more comprehensive analysis.
 
 ## Author
 [Md Borhan Uddin]  
